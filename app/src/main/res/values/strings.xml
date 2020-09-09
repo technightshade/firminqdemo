@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="submit">Submit</string>
+    <string name="screen_title">Screen Title</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="incorrect_email">Incorrect email</string>
+    <string name="blank_email">Email cannot be blank</string>
+    <string name="blank_password">Password cannot be blank</string>
+    <string name="blank_confirm_password">Confirm Password cannot be blank</string>
+    <string name="mismatch_password">Password Mismatched</string>
+</resources>
